@@ -12,4 +12,5 @@ Estructura del Proyecto:
 6. Envío Promedio por Tienda
 7. Recomendación
 
+![Ventas](assets/Ventasporcategoria.png)
 
