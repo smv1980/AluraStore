@@ -14,7 +14,7 @@ Estructura del Proyecto:
 
 ![Ventas](assets/GraficoVentas.png)
 ![VentasCategoría](assets/Ventasporcategoria.png)
-![VentasporAñoyTienda] (assets/Calificaciones.png)
+![VentasporAñoyTienda](assets/Calificaciones.png)
 
 Abrir archivo Desafio_Alura_Store_SMV.ipynb para ver notebook.
 
