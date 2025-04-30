@@ -12,9 +12,11 @@ Estructura del Proyecto:
 6. Envío Promedio por Tienda
 7. Recomendación
 
-Gráficos //
 ![Ventas](assets/GraficoVentas.png)
 ![VentasCategoría](assets/Ventasporcategoría.png)
-![Ventas por Año y Tienda] (assets/Calificacionesporanoytienda.png)
+![VentasporAñoyTienda] (assets/Calificacionesporanoytienda.png)
+
+Abrir archivo Desafio_Alura_Store_SMV.ipynb para ver notebook.
+
 
 
