@@ -13,8 +13,8 @@ Estructura del Proyecto:
 7. Recomendación
 
 ![Ventas](assets/GraficoVentas.png)
-![VentasCategoría](assets/Ventasporcategoría.png)
-![VentasporAñoyTienda] (assets/Calificacionesporanoytienda.png)
+![VentasCategoría](assets/Ventasporcategoria.png)
+![VentasporAñoyTienda] (assets/Calificaciones.png)
 
 Abrir archivo Desafio_Alura_Store_SMV.ipynb para ver notebook.
 
